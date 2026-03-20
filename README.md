@@ -1,17 +1,17 @@
 
 
-# **Sales and Profit Dashboard **
+**Sales and Profit Dashboard **
 
-## 🔹 **Project Overview**
+🔹 **Project Overview**
 
 This dashboard provides a comprehensive analysis of **sales, profit, and quantity performance** across different years, categories, and regions. It helps stakeholders quickly understand business performance and make data-driven decisions.
 
 <img width="4120" height="2149" alt="excel_project" src="https://github.com/user-attachments/assets/fc2bd8b4-9d89-4886-b18c-9a5e460525b7" />
 ---
 
-## 🔹 **Key Features**
+🔹 **Key Features**
 
-### **Filters / Slicers (Left Panel)**
+**Filters / Slicers (Left Panel)**
 
 * **Year Filter (2021–2024)** → Analyze performance year-wise
 * **Month Filter (Jan–Dec)** → Drill down to monthly trends
@@ -22,21 +22,21 @@ These slicers make the dashboard interactive.
 
 ---
 
-## 🔹 **KPI Cards (Top Section)**
+🔹 **KPI Cards (Top Section)**
 
-### Profit Metrics
+**Profit Metrics**
 
 * **Total Profit:** 247,961.07
 * **Max Profit:** 8,399
 * **Average Profit:** 29.82
 
-### Sales Metrics
+**Sales Metrics**
 
 * **Total Sales:** 1,928,887.86
 * **Max Sales:** 22,638
 * **Average Sales:** 232.00
 
-### Quantity Metrics
+**Quantity Metrics**
 
 * **Total Quantity Sold:** 31,508
 * **Max Quantity:** 14
@@ -46,51 +46,51 @@ These KPIs give a quick summary of business performance.
 
 ---
 
-## 🔹 **Visualizations (Charts Explanation)**
+ 🔹 **Visualizations (Charts Explanation)**
 
-### **1. Profit Distribution (Pie Chart)**
+ **1. Profit Distribution (Pie Chart)**
 
 * Shows how profit is distributed across categories or segments
 * Helps identify which segment contributes more profit
 
 ---
 
-###**2. Quantity Trend (Line Chart)**
+**2. Quantity Trend (Line Chart)**
 
 * Displays quantity sold over years (2021–2024)
 * Helps identify growth or decline trends
 
 ---
 
-### **3. Sales by Category (Bar Chart)**
+ **3. Sales by Category (Bar Chart)**
 
 * Compares total sales across categories
 * Useful to find top-performing product categories
 
 ---
 
-### **4. Year-wise Profit (Donut Chart)**
+**4. Year-wise Profit (Donut Chart)**
 
 * Shows profit contribution by each year
 * Helps compare yearly performance
 
 ---
 
-### **5. Profit by Sub-Category (Clustered Bar Chart)**
+ **5. Profit by Sub-Category (Clustered Bar Chart)**
 
 * Breaks down profit by sub-categories
 * Identifies high and low-performing products
 
 ---
 
-### **6. Profit Trend % (Line Chart)**
+**6. Profit Trend % (Line Chart)**
 
 * Shows percentage variation in profit across sub-categories
 * Highlights losses (negative values) and gains
 
 ---
 
-## 🔹 **Insights You Can Derive**
+🔹 **Insights You Can Derive**
 
 * Identify **top-performing categories**
 * Detect **loss-making products**
@@ -100,7 +100,7 @@ These KPIs give a quick summary of business performance.
 
 ---
 
-## 🔹 **Tools & Technologies Used**
+🔹 **Tools & Technologies Used**
 
 * **Power BI**
 * **DAX (Data Analysis Expressions)**
@@ -108,7 +108,7 @@ These KPIs give a quick summary of business performance.
 
 ---
 
-## 🔹 **Business Use Case**
+🔹 **Business Use Case**
 
 This dashboard helps:
 
